@@ -26,6 +26,7 @@ npm run e2e
 # run all tests
 npm test
 
-![dalongbao](https://github.com/a1044187112/projectImg/dalongbao/1.jpg)
+![dalongbao](https://github.com/a1044187112/projectImg/blob/master/dalongbao/1.jpg)
+![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
